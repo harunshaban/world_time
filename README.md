@@ -1,6 +1,11 @@
 # world_time
 
-A new Flutter application.
+A new Flutter application. Beggining with flutter dart.
+The application contains basic knowledge for flutter, the tutorials are free and online.
+
+CREDIT:
+Thank You..!
+https://github.com/iamshaunjp
 
 ## Getting Started
 
